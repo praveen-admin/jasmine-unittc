@@ -4,7 +4,7 @@
   "description": "testing unit test cases ",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine --forceexit"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
