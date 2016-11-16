@@ -9,7 +9,7 @@ describe("suite",function () {
            expect(true).toBe(true);
        }) ;
         it("test case",function () {
-            expect(true).toBe(true);
+            expect(true).toBe(false);
         }) ;
     });
 });
