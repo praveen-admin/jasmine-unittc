@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-unittest",
+  "version": "1.0.0",
+  "description": "testing unit test cases ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen-admin/jasmine-unittc.git"
+  },
+  "author": "praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen-admin/jasmine-unittc/issues"
+  },
+  "homepage": "https://github.com/praveen-admin/jasmine-unittc#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
